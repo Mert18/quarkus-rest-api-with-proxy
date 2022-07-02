@@ -1,0 +1,5 @@
+/home/merd/code/quarkus-microprofile-restclient/src/main/java/org/gs/model/Episode.java
+/home/merd/code/quarkus-microprofile-restclient/src/main/java/org/gs/model/TvSeries.java
+/home/merd/code/quarkus-microprofile-restclient/src/main/java/org/gs/proxy/EpisodeProxy.java
+/home/merd/code/quarkus-microprofile-restclient/src/main/java/org/gs/TvSeriesResource.java
+/home/merd/code/quarkus-microprofile-restclient/src/main/java/org/gs/proxy/TvSeriesProxy.java
